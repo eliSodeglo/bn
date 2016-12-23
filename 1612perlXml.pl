@@ -1,7 +1,8 @@
 #!/usr/bin/perl
 #TODO: 
-#(a) XML komplett aufgedroeselt ausgeben
+#(/) XML komplett aufgedroeselt ausgeben
 #(b) Verzeichnis ueberwachen (inotify)  http://www.perlmonks.org/?node_id=742728 
+#
 #perl -MXML::Simple -MDumpvalue -E
 use 5.012;
 use XML::Simple;
